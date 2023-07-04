@@ -44,7 +44,7 @@ def deaUnterscheidbareZustaende(A):
     return markiert # hält die Paare von unterscheidbaren Zustände in einer Liste.
 
 
-########## HAUPTFUNKTION ########## (Namen und Signatur nicht ändern!)  ##
+########## HAUPTFUNKTION ########## (Namen und Signatur nicht ändern!)
 
 def deasAequivalent(A, B):  # prueft, ob DEAs A und B die gleiche Sprache akzeptieren
     [ASigma, AZ, Adelta, Az0, AF] = A
